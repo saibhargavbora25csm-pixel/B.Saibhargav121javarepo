@@ -1,7 +1,7 @@
 class Test 
 {
-	public static void main(atring[] args)
+	public static void main(String[] args)
 	{
-		system.out.println("csm-b");
+		System.out.println("csm-b");
 	}
 }
