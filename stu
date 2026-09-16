@@ -1,0 +1,15 @@
+package in.anits.cse;
+
+public class Stu {
+    private int rollNo;
+    private String name;
+
+    public Stu(int r, String n) {
+        rollNo = r;
+        name = n;
+    }
+
+    public void show() {
+        System.out.println("Roll: " + rollNo + " | Name: " + name);
+    }
+}
